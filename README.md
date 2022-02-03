@@ -1,9 +1,9 @@
-# Obstacle_Race
+# 互動技術概論-Among Us障礙賽
 - 組員：[iamsherry000](https://github.com/iamsherry000)、[yiyun12o9](https://github.com/yiyun12o9)
 
 - 老師：[jsyeh](https://github.com/jsyeh)
 
-- 作品：Among Us障礙賽
+- 作品名稱：Among Us障礙賽
 
 - 操作：遊玩方式是利用鍵盤A、D鍵與左、右方向鍵控制角色，要避開道路上的雞腿(屍體)障礙物，直到終點即過關，碰到障礙物就算失敗。
 
